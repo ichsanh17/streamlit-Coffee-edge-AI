@@ -5,3 +5,4 @@ torchvision
 grad-cam
 pillow
 numpy
+pytorch-grad-cam

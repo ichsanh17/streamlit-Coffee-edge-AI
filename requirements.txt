@@ -6,3 +6,4 @@ grad-cam
 pillow
 numpy
 pytorch-grad-cam
+opencv-python-headless==4.10.0.84
